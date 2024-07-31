@@ -2,9 +2,7 @@
 
 A simple and intuitive to-do list web application built using HTML, CSS, and JavaScript from the scratch. Manage your daily tasks efficiently with this easy-to-use interface.
 
-Check out the live demo [here](https://your-demo-link.com).
-
-git lfs track "video.mp4"
+check out few of the images of the project
 
 
 <div align="center">
