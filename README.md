@@ -8,8 +8,19 @@ git lfs track "video.mp4"
 
 
 <div align="center">
+
   <a href="https://github.com/Khushi2004Shrivastava/TO-DO-LIST/releases/download/v1.0.0/video.mp4" target="_blank">
-    <img src="https://github.com/Khushi2004Shrivastava/TO-DO-LIST/blob/main/images/Screenshot%202024-07-31%20104325.png" alt="Watch the video" width="600" height="400" />
+    <img src="https://github.com/Khushi2004Shrivastava/TO-DO-LIST/blob/main/images/img1.png" alt="Watch the video" width="600" height="400" />
+    <img src="https://github.com/Khushi2004Shrivastava/TO-DO-LIST/blob/main/images/img2%20(2).png" alt="Watch the video" width="600" height="400" />
+        <img src="https://github.com/Khushi2004Shrivastava/TO-DO-LIST/blob/main/images/img3.png" alt="Watch the video" width="600" height="400" />
+    <img src="https://github.com/Khushi2004Shrivastava/TO-DO-LIST/blob/main/images/img4.png" alt="Watch the video" width="600" height="400" />
+    <img src="https://github.com/Khushi2004Shrivastava/TO-DO-LIST/blob/main/images/img5.png" alt="Watch the video" width="600" height="400" />
+    <img src="https://github.com/Khushi2004Shrivastava/TO-DO-LIST/blob/main/images/img6.png" alt="Watch the video" width="600" height="400" />
+    <img src="https://github.com/Khushi2004Shrivastava/TO-DO-LIST/blob/main/images/img7.png" alt="Watch the video" width="600" height="400" />
+    <img src="https://github.com/Khushi2004Shrivastava/TO-DO-LIST/blob/main/images/img8.png" alt="Watch the video" width="600" height="400" />
+    <img src="https://github.com/Khushi2004Shrivastava/TO-DO-LIST/blob/main/images/img9.png" alt="Watch the video" width="600" height="400" />
+
+
   </a>
 </div>
 
