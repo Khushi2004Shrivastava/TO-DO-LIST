@@ -1,11 +1,11 @@
 # <span style="font-family: 'Arial'; font-size: 2em;">To-Do List Web Application</span>
 
-A simple and intuitive to-do list web application built using HTML, CSS, and JavaScript. Manage your daily tasks efficiently with this easy-to-use interface.
+A simple and intuitive to-do list web application built using HTML, CSS, and JavaScript from the scratch. Manage your daily tasks efficiently with this easy-to-use interface.
 
 Check out the live demo [here](https://your-demo-link.com).
 
 <div align="center">
-  <a href="(https://github.com/Khushi2004Shrivastava/TO-DO-LIST/Recording.mp4)" target="_blank">
+  <a href="https://github.com/Khushi2004Shrivastava/TO-DO-LIST/releases/download/v1.0.0/video.mp4" target="_blank">
     <img src="https://github.com/Khushi2004Shrivastava/TO-DO-LIST/blob/main/images/Screenshot%202024-07-31%20104325.png" alt="Watch the video" width="600" height="400" />
   </a>
 </div>
