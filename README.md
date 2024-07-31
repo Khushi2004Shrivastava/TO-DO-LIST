@@ -4,7 +4,11 @@ A simple and intuitive to-do list web application built using HTML, CSS, and Jav
 
 Check out the live demo [here](https://your-demo-link.com).
 
-<img src="https://your-demo-screenshot-link.com/screenshot.png" alt="To-Do List Demo" style="width: 100%; max-width: 600px;">
+<div align="center">
+  <a href="(https://github.com/Khushi2004Shrivastava/TO-DO-LIST/Recording.mp4)" target="_blank">
+    <img src="https://github.com/Khushi2004Shrivastava/TO-DO-LIST/blob/main/images/Screenshot%202024-07-31%20104325.png" alt="Watch the video" width="600" height="400" />
+  </a>
+</div>
 
 ## Features
 
